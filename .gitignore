@@ -1,5 +1,7 @@
 # Large video files (exceed GitHub's 100MB limit)
 assets/videos/*.mp4
+# Allow compressed reel-2 (67MB, under GitHub's 100MB limit)
+!assets/videos/reel-2.mp4
 
 # OS files
 .DS_Store
